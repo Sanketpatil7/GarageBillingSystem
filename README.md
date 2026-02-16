@@ -1,5 +1,4 @@
-🚗 Garage Billing System (Java Console Application)
-
+<h1 align="center">🚗 Garage Billing System (Java Console Application)</h1>
 A simple Garage Service Billing System built using Core Java and OOP concepts.
 This console-based application allows a garage to manage customers, assign services, and generate invoices.
 
