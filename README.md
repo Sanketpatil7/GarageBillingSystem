@@ -2,6 +2,16 @@
 A simple Garage Service Billing System built using Core Java and OOP concepts.
 This console-based application allows a garage to manage customers, assign services, and generate invoices.
 
+🎯 What I Learned
+- Implemented OOP concepts in real application
+- Learned how to manage data using HashMap and ArrayList
+- Understood object relationships using composition
+- Practiced Java console application design
+
+This project was built as part of my learning journey in Core Java.
+I wanted to apply OOP concepts in a real-world scenario like a garage billing system.
+
+
 📌 Features
 
 ✅ Add new customers
@@ -72,7 +82,8 @@ ArrayList<Service> → Stores available and selected services
 
 Clone the repository
 
-git clone https://github.com/your-username/GarageBillingSystem.git
+git clone git clone https://github.com/Sanketpatil7/GarageBillingSystem.git
+
 
 
 Open in any Java IDE (IntelliJ / Eclipse / VS Code)
