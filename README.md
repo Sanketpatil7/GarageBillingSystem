@@ -78,7 +78,7 @@ HashMap<String, Customer> → Stores customers by car number
 
 ArrayList<Service> → Stores available and selected services
 
-🚀 How to Run the Project
+🚀 How to Run the Project....
 
 Clone the repository
 
